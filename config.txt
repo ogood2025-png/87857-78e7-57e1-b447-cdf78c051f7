@@ -1,5 +1,5 @@
 #hide-settings: 1
-#providerid 2p7tqgf9
 #profile-title: ✅🍉☎️✅
+#providerid: 2p7tqgf9
 vless://629e7524-abb8-43ee-9b62-718c0061c0f0@138.16.226.113:55475?authority=&encryption=none&fp=edge&pbk=23p5a5LR2Z1dSQjqYGcwFd9bWsNVWcUnldVbatWOwUU&security=reality&serviceName=&sid=bbfc4a1f&sni=vk.design&spx=%2F7032c6e9985be3a&support-x25519mlkem768=true&type=grpc#%F0%9F%87%A8%F0%9F%87%A6%20Mobile-internet
 vless://629e7524-abb8-43ee-9b62-718c0061c0f0@138.16.226.113:443?encryption=none&flow=xtls-rprx-vision&fp=safari&pbk=I3Lmulns_jLAT1OlUThwvmQijRsZEJay01EDgKJBqFw&security=reality&sid=0a94&sni=ozon.ru&spx=%2F50ed30b3a661b0d&support-x25519mlkem768=true&type=tcp#%F0%9F%87%B5%F0%9F%87%B1%205G%F0%9F%9B%9C-internet
