@@ -1,6 +1,4 @@
-#hide-settings: 1
-#profile-title: ✅
-#providerid: 2p7tqgf9
 vless://07e43c95-0294-4c11-bf27-6094555c1692@194.58.223.99:8443?authority=&encryption=none&fp=chrome&pbk=Bfo7oO8cTzbwxP87PjdcMXnzkTqiY29X8A1m_hmh5E0&security=reality&serviceName=&sid=4ca5f7faca680fa6&sni=www.reg.ru&spx=%2F56396fe3f12a3c0&support-x25519mlkem768=true&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%205G-%F0%9F%9F%A2Router
 vless://6b1e78c5-a9e3-48fd-b83e-c7fddb727fe9@fin1-r.bankai.party:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=fin1-r.bankai.party&fp=qq&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0&sid=457fab2ac885dbe0#%F0%9F%87%AB%F0%9F%87%AE%20%D0%A4%D0%B8%D0%BD%D0%BB%D1%8F%D0%BD%D0%B4%D0%B8%D1%8F-1%20%C2%B7%20Reality
 vless://6b1e78c5-a9e3-48fd-b83e-c7fddb727fe9@de9-r.bankai.party:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=de9-r.bankai.party&fp=qq&pbk=FWitre1jinQR7qz5HQ0q2Q4Gg9xA9B0SyizCziN7Ch0#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F-8%20%C2%B7%20Reality
+vless://e4563927-c72e-4839-a668-afaf4fda4fb9@194.58.223.99:8443?authority=&encryption=none&fp=chrome&pbk=Bfo7oO8cTzbwxP87PjdcMXnzkTqiY29X8A1m_hmh5E0&security=reality&serviceName=&sid=7af6bc4e10&sni=www.reg.ru&spx=%2F9451a20fde8a145&support-x25519mlkem768=true&type=grpc#%F0%9F%87%BA%F0%9F%87%B8%205G-YT
